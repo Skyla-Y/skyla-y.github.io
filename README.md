@@ -1,4 +1,3 @@
-<!DOCTYPE html>
 <html>
   <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
@@ -33,12 +32,7 @@
 
 	<!-- text content for search engines: -->
 
-	<div style="display:none" aria-hidden=true>
-
-		<div>Button</div>
-
-	</div>
-
+	
 	<!-- end text content: -->
 
   </body>
