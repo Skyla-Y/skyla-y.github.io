@@ -1,8 +1,9 @@
+<!DOCTYPE html>
 <html>
   <head>
 	<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
 	<meta http-equiv="X-UA-Compatible" content="chrome=1,IE=edge" />
-	<title>ya</title>
+	<title>tu</title>
 	<style>
 		html {
 			height:100%;
@@ -15,15 +16,15 @@
 	</style>
 	<!-- copy these lines to your document head: -->
 
-	<meta name="viewport" content="user-scalable=yes, width=600" />
+	<meta name="viewport" content="user-scalable=yes, width=320" />
 
 	<!-- end copy -->
   </head>
   <body>
 	<!-- copy these lines to your document: -->
 
-	<div id="ya_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:600px;height:400px;overflow:hidden;">
-		<script type="text/javascript" charset="utf-8" src="ya.hyperesources/ya_hype_generated_script.js?62297"></script>
+	<div id="tu_hype_container" class="HYPE_document" style="margin:auto;position:relative;width:320px;height:450px;overflow:hidden;">
+		<script type="text/javascript" charset="utf-8" src="tu.hyperesources/tu_hype_generated_script.js?70026"></script>
 	</div>
 
 	<!-- end copy -->
